@@ -1,5 +1,9 @@
 module AppliSales
 
-greet() = print("Hello World!")
+using Dates
+
+include("./infrastructure/infrastructure.jl")
+
+export process
 
 end # module
