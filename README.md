@@ -5,3 +5,5 @@
 [![Build Status](https://travis-ci.com/rbontekoe/AppliSales.jl.svg?branch=master)](https://travis-ci.com/rbontekoe/AppliSales.jl)
 [![Codecov](https://codecov.io/gh/rbontekoe/AppliSales.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/rbontekoe/AppliSales.jl)
 [![Coveralls](https://coveralls.io/repos/github/rbontekoe/AppliSales.jl/badge.svg?branch=master)](https://coveralls.io/github/rbontekoe/AppliSales.jl?branch=master)
+
+AppliSales is a support package we use in the course [BAWJ](https://www.appligate.nl/BAWJ/) (Building Business Applications with Julia).
