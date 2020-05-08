@@ -1,7 +1,7 @@
 name = "AppliSales"
 uuid = "c1345d04-1a7a-4e7a-b935-9916dcf58fca"
 authors = ["Rob Bontekoe"]
-version = "0.1.2"
+version = "0.1.0"
 
 [deps]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
